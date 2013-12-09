@@ -1,0 +1,26 @@
+{
+  "name": "react-profiler",
+  "version": "0.0.0",
+  "description": "Simple interface to ReactDefaultPerf",
+  "main": "ReactProfiler.js",
+  "dependencies": {
+    "react": "http://petehunt.net/react/react-0.5.1.tar.gz"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/petehunt/react-profiler.git"
+  },
+  "keywords": [
+    "react",
+    "profiler",
+    "perf"
+  ],
+  "author": "Pete Hunt",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/petehunt/react-profiler/issues"
+  }
+}

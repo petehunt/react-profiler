@@ -1,10 +1,10 @@
 {
   "name": "react-profiler",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple interface to ReactDefaultPerf",
   "main": "ReactProfiler.js",
   "dependencies": {
-    "react": "http://petehunt.net/react/react-0.5.1.tar.gz"
+    "react": "~0.8"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
